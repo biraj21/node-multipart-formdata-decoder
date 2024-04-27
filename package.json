@@ -1,0 +1,13 @@
+{
+  "name": "yt-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "npx nodemon server/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
